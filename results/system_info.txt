@@ -1,0 +1,5 @@
+OS: Windows 11 10.0 (amd64)
+CPU Logical Cores: 16
+Java Version: 26 (OpenJDK 64-Bit Server VM)
+JVM Max Heap: 2048,00 MB
+Trials per config: 10
